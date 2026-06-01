@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794293229990",
+    "project_id": "hire-nest-4919d",
+    "storage_bucket": "hire-nest-4919d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794293229990:android:15a7b158b5cf8c850d9767",
+        "android_client_info": {
+          "package_name": "com.example.career_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4t9ti65nJIAjEbzp0FjD_dNFV4xGkYEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
